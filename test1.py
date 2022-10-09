@@ -1,4 +1,5 @@
 def fun123():
     print("what a good day")
-
-fun123
+a =1
+print(a)
+fun123()
